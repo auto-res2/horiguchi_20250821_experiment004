@@ -6,5 +6,52 @@
     "diffusion cross-domain synthesis",
     "universal latent diffusion",
     "transferable diffusion generative"
+  ],
+  "research_study_list": [
+    {
+      "title": "Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise"
+    },
+    {
+      "title": "Diffusion Models for Multi-Task Generative Modeling"
+    },
+    {
+      "title": "Understanding Generalizability of Diffusion Models Requires Rethinking the Hidden Gaussian Structure"
+    },
+    {
+      "title": "Weight Diffusion for Future: Learn to Generalize in Non-Stationary Environments"
+    },
+    {
+      "title": "GDA: Generalized Diffusion for Robust Test-time Adaptation"
+    },
+    {
+      "title": "Back to the Source: Diffusion-Driven Adaptation To Test-Time Corruption"
+    },
+    {
+      "title": "Learning Diffusion Bridges on Constrained Domains"
+    },
+    {
+      "title": "Learning Diffusion Bridges on Constrained Domains"
+    },
+    {
+      "title": "SyncTweedies: A General Generative Framework Based on Synchronized Diffusions"
+    },
+    {
+      "title": "Universal Guidance for Diffusion Models"
+    },
+    {
+      "title": "One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale"
+    },
+    {
+      "title": "Latent Diffusion for Language Generation"
+    },
+    {
+      "title": "Transfer Learning for Diffusion Models"
+    },
+    {
+      "title": "Diffusion Models for Multi-Task Generative Modeling"
+    },
+    {
+      "title": "Diffusion Tuning: Transferring Diffusion Models via Chain of Forgetting"
+    }
   ]
 }
