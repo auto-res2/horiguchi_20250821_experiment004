@@ -1,1 +1,7 @@
-# Please list the required python packages.
+torch>=2.0
+torchvision
+numpy
+faiss-cpu
+matplotlib
+seaborn
+scikit-learn
